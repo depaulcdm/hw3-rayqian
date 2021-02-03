@@ -4,4 +4,5 @@
 - master
 - feature1
 - feature2
+
 ![Image of DePaul](https://depauliaonline.com/wp-content/uploads/2017/09/Depaul.png)
